@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=560&lines=Hi%2C+I%27m+Abhay;Python+%C2%B7+TypeScript+%C2%B7+C;AI+%C2%B7+Agents+%C2%B7+Distributed+systems" alt="typing intro" />
 
-<a href="https://abhays.vercel.app"><img src="https://img.shields.io/badge/Website-abhays.vercel.app-4FD1C5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f2027" alt="Website" /></a>
+<a href="https://abhays.vercel.app"><img src="https://img.shields.io/badge/Website-4FD1C5?style=for-the-badge" alt="Website" /></a>
 
 </div>
 
