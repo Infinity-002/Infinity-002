@@ -1,54 +1,99 @@
-# Hi, I'm Abhay 👋 &nbsp; [![Views](https://u8views.com/api/v1/github/profiles/66492292/views/total-count.svg)](https://u8views.com/github/Infinity-002)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Abhay&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=agents%20%E2%80%A2%20reinforcement%20learning%20%E2%80%A2%20systems&descAlignY=72&descSize=16" width="100%" alt="Abhay" />
 
-```yaml
-role: AI / ML Engineer & Builder
-location: India
-focus: Agentic AI, Reinforcement Learning, Distributed Systems
-interests: [Python, TypeScript, C, RL, LLM Agents, DevOps]
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=560&lines=Teaching+a+dog+to+herd+sheep+with+PPO+%F0%9F%90%91;Reading+spacecraft+telemetry+for+trouble+%F0%9F%9B%B0%EF%B8%8F;Building+agents+that+plan%2C+ask%2C+then+act+%F0%9F%A4%96;Writing+parsers+in+C+for+fun+%F0%9F%94%A3" alt="typing intro" />
+
+</div>
+
+```python
+class Abhay:
+    builds  = ["LLM agents", "RL environments", "distributed inference", "compilers"]
+    stack   = ["Python", "TypeScript", "C", "PyTorch", "Docker"]
+    now     = "turning messy real-world data into decisions"
+    motto   = "ship the small thing that works, then make it smarter"
 ```
 
----
+## 🚀 Things I've built
 
-### 📌 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🐑 **[DS-geometric-shepherding-rl](https://github.com/Infinity-002/DS-geometric-shepherding-rl)** — Shepherding a flock with one dog in a continuous 2D world: geometric heuristic vs behavioral cloning vs (recurrent) PPO *(Python, PyTorch, Gymnasium)*
-- 🛰️ **[Spacecraft-Telemetry-Health](https://github.com/Infinity-002/Spacecraft-Telemetry-Health)** — Decision support system fusing spacecraft telemetry, operator notes, safety rules and model uncertainty into one explainable health call *(Python, ML)*
-- 📊 **[Business-Intelligence-Agent](https://github.com/Infinity-002/Business-Intelligence-Agent)** — Conversational BI agent over live Monday.com boards: normalizes messy data, computes validated metrics, explains them *(TypeScript, LLMs)*
-- 🕸️ **[zenoh-health-inference-mesh](https://github.com/Infinity-002/zenoh-health-inference-mesh)** — Distributed edge-to-cloud AI inference pipeline with a decentralised scheduler *(Python, Zenoh, Docker, LocalStack)*
-- 🗂️ **[Intelligent-Document-Agent](https://github.com/Infinity-002/Intelligent-Document-Agent)** — Agentic document-ops assistant that plans, asks for approval, and drives UiPath RPA *(Python, UiPath)*
-- 🧠 **[statekeeper](https://github.com/Infinity-002/statekeeper)** — Durable, resumable task state and multi-agent coordination for coding agents via Git worktrees
-- 🎭 **[Multimodal-Emotion-Detection](https://github.com/Infinity-002/Multimodal-Emotion-Detection)** — Real-time emotion inference from scene captions, facial expressions and LLM reasoning *(BLIP, ViT, StableLM)*
-- 🔣 **[sql-select-parser](https://github.com/Infinity-002/sql-select-parser)** — Compiler-style front end for a subset of SQL `SELECT` *(C)*
+### 🐑 [Geometric Shepherding RL](https://github.com/Infinity-002/DS-geometric-shepherding-rl)
+One dog, a flock, obstacles, limited vision. Heuristics vs behavioral cloning vs recurrent PPO in the same 2D world.
 
----
+`PyTorch` `Gymnasium` `PPO`
 
-### 📚 Learning in Public
+</td>
+<td width="50%" valign="top">
 
-- **[software-engineering-guide](https://github.com/Infinity-002/software-engineering-guide)** — 22 areas, 68 chapters, system design, projects and runnable labs
-- **[DSA](https://github.com/Infinity-002/DSA)** — NeetCode 150 + Core 60 handbook with validated C++17 and Python solutions
+### 🛰️ [Spacecraft Telemetry Health](https://github.com/Infinity-002/Spacecraft-Telemetry-Health)
+Fuses live telemetry, operator notes and safety rules into one call: Nominal → Immediate Action.
 
----
+`ML` `Uncertainty` `Decision Support`
 
-### 🛠️ Tech Stack & Toolkit
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` `TypeScript` `C` `C++` `Java` `SQL` `Shell` |
-| **AI / ML** | `PyTorch` `Reinforcement Learning` `Gymnasium` `Transformers` `LLM Agents` |
-| **Backend & Systems** | `FastAPI` `Zenoh` `REST APIs` `UiPath RPA` |
-| **DevOps & Tools** | `Git` `Docker` `Jenkins` `GitHub Actions` `LocalStack` `Linux` |
+### 📊 [Business Intelligence Agent](https://github.com/Infinity-002/Business-Intelligence-Agent)
+Ask founder questions, get validated metrics from live Monday.com boards, plus an explanation.
 
----
+`TypeScript` `LLM` `BI`
 
-### 🌐 Connect With Me
+</td>
+<td width="50%" valign="top">
 
-<p align="left">
-  <a href="https://github.com/Infinity-002" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Infinity--002-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- add your LinkedIn / portfolio badges here, e.g.:
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-YOUR--HANDLE-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  -->
+### 🕸️ [Zenoh Health Inference Mesh](https://github.com/Infinity-002/zenoh-health-inference-mesh)
+Edge nodes ingest, a decentralised scheduler assigns, cloud nodes run containerised inference.
+
+`Zenoh` `Docker` `LocalStack`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ [Intelligent Document Agent](https://github.com/Infinity-002/Intelligent-Document-Agent)
+Plans from a plain-English goal, asks before changing anything, drives UiPath bots, replans on failure.
+
+`Agentic AI` `UiPath RPA`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [statekeeper](https://github.com/Infinity-002/statekeeper)
+Resumable task state and coordination for coding agents across Git worktrees.
+
+`Agents` `Git`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More experiments →</b></summary>
+<br>
+
+- 🎭 [Multimodal Emotion Detection](https://github.com/Infinity-002/Multimodal-Emotion-Detection) — scene captions + faces + LLM reasoning, in real time
+- 🔣 [sql-select-parser](https://github.com/Infinity-002/sql-select-parser) — compiler-style front end for SQL `SELECT`, in C
+- ⚙️ [devops-pipeline](https://github.com/Infinity-002/devops-pipeline) · [Jenkins-Pipeline](https://github.com/Infinity-002/Jenkins-Pipeline) — CI/CD playgrounds
+
+</details>
+
+## 📚 Notes I keep in public
+
+| | |
+| :-- | :-- |
+| 📘 [**software-engineering-guide**](https://github.com/Infinity-002/software-engineering-guide) | 22 areas · 68 chapters · system design · runnable labs |
+| 🧮 [**DSA**](https://github.com/Infinity-002/DSA) | NeetCode 150 + Core 60 · C++17 & Python solutions |
+
+## 🧰 Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,c,cpp,java,pytorch,fastapi,docker,jenkins,githubactions,linux,git&perline=12" alt="tech stack" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="" />
