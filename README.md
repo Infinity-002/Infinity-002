@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Abhay&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=agents%20%E2%80%A2%20reinforcement%20learning%20%E2%80%A2%20systems&descAlignY=72&descSize=16" width="100%" alt="Abhay" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Abhay&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=real-world%20systems%20%E2%80%A2%20agents%20%E2%80%A2%20reinforcement%20learning&descAlignY=72&descSize=16" width="100%" alt="Abhay" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=560&lines=Teaching+a+dog+to+herd+sheep+with+PPO+%F0%9F%90%91;Reading+spacecraft+telemetry+for+trouble+%F0%9F%9B%B0%EF%B8%8F;Building+agents+that+plan%2C+ask%2C+then+act+%F0%9F%A4%96;Writing+parsers+in+C+for+fun+%F0%9F%94%A3" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=560&lines=I+build+for+the+real+world%2C+not+the+demo.;Sensors+in.+Decisions+out.;Edge+to+cloud.+Signal+to+action.;Systems+that+hold+up+when+things+break." alt="typing intro" />
 
 </div>
 
@@ -10,7 +10,7 @@
 class Abhay:
     builds  = ["LLM agents", "RL environments", "distributed inference", "compilers"]
     stack   = ["Python", "TypeScript", "C", "PyTorch", "Docker"]
-    now     = "turning messy real-world data into decisions"
+    now     = "building systems that survive contact with the real world"
     motto   = "ship the small thing that works, then make it smarter"
 ```
 
