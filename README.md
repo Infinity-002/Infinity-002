@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=560&lines=I+build+for+the+real+world%2C+not+the+demo.;Sensors+in.+Decisions+out.;Edge+to+cloud.+Signal+to+action.;Systems+that+hold+up+when+things+break." alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=560&lines=Hi%2C+I%27m+Abhay;Python+%C2%B7+TypeScript+%C2%B7+C;RL+%C2%B7+Agents+%C2%B7+Distributed+systems" alt="typing intro" />
 
 </div>
 
@@ -10,8 +10,6 @@
 class Abhay:
     builds  = ["LLM agents", "RL environments", "distributed inference", "compilers"]
     stack   = ["Python", "TypeScript", "C", "PyTorch", "Docker"]
-    now     = "building systems that survive contact with the real world"
-    motto   = "ship the small thing that works, then make it smarter"
 ```
 
 ## 🚀 Things I've built
