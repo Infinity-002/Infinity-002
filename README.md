@@ -1,8 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Abhay&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=real-world%20systems%20%E2%80%A2%20agents%20%E2%80%A2%20reinforcement%20learning&descAlignY=72&descSize=16" width="100%" alt="Abhay" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Abhay&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=real-world%20systems%20%E2%80%A2%20agents%20%E2%80%A2%20machine%20learning&descAlignY=72&descSize=16" width="100%" alt="Abhay" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=560&lines=Hi%2C+I%27m+Abhay;Python+%C2%B7+TypeScript+%C2%B7+C;RL+%C2%B7+Agents+%C2%B7+Distributed+systems" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=560&lines=Hi%2C+I%27m+Abhay;Python+%C2%B7+TypeScript+%C2%B7+C;AI+%C2%B7+Agents+%C2%B7+Distributed+systems" alt="typing intro" />
+
+<a href="https://abhays.vercel.app"><img src="https://img.shields.io/badge/Website-abhays.vercel.app-4FD1C5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f2027" alt="Website" /></a>
 
 </div>
 
